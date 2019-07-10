@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">iTunes Music</string>
+    <string name="make_a_search">Realice una búsqueda</string>
+    <string name="search_title">Buscar</string>
+</resources>
