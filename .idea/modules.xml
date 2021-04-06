@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/itunes.iml" filepath="$PROJECT_DIR$/.idea/itunes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/data/itunes.data.iml" filepath="$PROJECT_DIR$/.idea/modules/data/itunes.data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/domain/itunes.domain.iml" filepath="$PROJECT_DIR$/.idea/modules/domain/itunes.domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/presentation/itunes.presentation.iml" filepath="$PROJECT_DIR$/.idea/modules/presentation/itunes.presentation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/remote/itunes.remote.iml" filepath="$PROJECT_DIR$/.idea/modules/remote/itunes.remote.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/smartphone-ui/itunes.smartphone-ui.iml" filepath="$PROJECT_DIR$/.idea/modules/smartphone-ui/itunes.smartphone-ui.iml" />
+    </modules>
+  </component>
+</project>

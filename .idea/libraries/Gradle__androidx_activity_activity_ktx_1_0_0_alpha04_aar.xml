@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.activity:activity-ktx:1.0.0-alpha04@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/a11c2487bc87cc4d0c335ce68e570021/res" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/87435feb469ea76b5d74af27b2a644e0/res" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/7d7e4fedff314c7972c2f737d89f7c2f/res" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-1/files-1.1/activity-ktx-1.0.0-alpha04.aar/bae8a850b86e58849b02d2f267f2194f/res" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-1/files-1.1/activity-ktx-1.0.0-alpha04.aar/bae8a850b86e58849b02d2f267f2194f/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-1/files-1.1/activity-ktx-1.0.0-alpha04.aar/bae8a850b86e58849b02d2f267f2194f/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/androidx.activity/activity-ktx/1.0.0-alpha04/758a2300dbd73822a5a70c460a67231ef5069c07/activity-ktx-1.0.0-alpha04-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

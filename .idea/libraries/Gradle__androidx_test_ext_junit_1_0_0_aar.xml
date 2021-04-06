@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.test.ext:junit:1.0.0@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/fcc8e728224f9cb16be535fffc10859d/res" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/c3c14985c891a6b94d0e41a7ffe2a72a/res" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/f5d4cf2b28e6bb03556815be0601640d/res" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-1/files-1.1/junit-1.0.0.aar/5709fb536f9c6509a0acd6232caac3e7/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-1/files-1.1/junit-1.0.0.aar/5709fb536f9c6509a0acd6232caac3e7/res" />
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-1/files-1.1/junit-1.0.0.aar/5709fb536f9c6509a0acd6232caac3e7/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/androidx.test.ext/junit/1.0.0/589bf051645875d3cf2f9d1eff548f89ee0e29f7/junit-1.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/androidx.test.ext/junit/1.0.0/afc741ced8f68ed68df33f9b31e75a6bff5e401a/junit-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

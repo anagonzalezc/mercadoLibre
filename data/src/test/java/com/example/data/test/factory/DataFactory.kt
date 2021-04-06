@@ -25,4 +25,7 @@ object DataFactory {
         return Math.random()
     }
 
+    fun randomFloat(): Float {
+        return Math.random().toFloat()
+    }
 }

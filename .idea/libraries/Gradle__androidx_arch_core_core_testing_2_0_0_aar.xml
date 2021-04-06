@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.arch.core:core-testing:2.0.0@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/dc6a8d80e502c795d8ec15ad1f4bbe2c/res" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/ce689738f38c3c6161ad01da48045f90/res" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/77c0980792be4e8e3b3cb56cb2754abe/res" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-1/files-1.1/core-testing-2.0.0.aar/84235101492a58f5dd2953a2b5422c4a/res" />
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-1/files-1.1/core-testing-2.0.0.aar/84235101492a58f5dd2953a2b5422c4a/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-1/files-1.1/core-testing-2.0.0.aar/84235101492a58f5dd2953a2b5422c4a/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/androidx.arch.core/core-testing/2.0.0/a53c7e5ac1082c8ba113336aea25c46c8611be2d/core-testing-2.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.activity:activity:1.0.0-alpha04@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/bb104e11b8f465d3ad8a2bc3e4d3b3ae/res" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/6633b7b5ac88803a20e7a33fd0f24b48/res" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/bc59143ad3785955048b85c938e2a67e/res" />
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-1/files-1.1/activity-1.0.0-alpha04.aar/86c0b513cf7383a543d1fab1e709812e/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-1/files-1.1/activity-1.0.0-alpha04.aar/86c0b513cf7383a543d1fab1e709812e/res" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-1/files-1.1/activity-1.0.0-alpha04.aar/86c0b513cf7383a543d1fab1e709812e/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/androidx.activity/activity/1.0.0-alpha04/381216c204d2ede6a023004b782c2f80a797086f/activity-1.0.0-alpha04-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

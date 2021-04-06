@@ -15,6 +15,14 @@ dependencies {
     testImplementation dataTestDependencies.kotlinJUnit
     testImplementation dataTestDependencies.mockitoKotlin
     testImplementation dataTestDependencies.assertj
+
+    implementation remoteDependencies.gson
+    implementation remoteDependencies.okHttp
+    implementation remoteDependencies.okHttpLogger
+    implementation remoteDependencies.retrofit
+    implementation remoteDependencies.retrofitConverter
+    implementation remoteDependencies.retrofitAdapter
+
 }
 
 sourceCompatibility = "7"
